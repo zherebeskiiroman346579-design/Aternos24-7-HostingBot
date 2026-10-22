@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "survivalworld-dRNF.aternos.me",
-    "port": 44019,
+    "ip": "AnarchyLifeSMP.aternos.me",
+    "port": 61672,
     "version": "",
     "try-creative": false
   },
